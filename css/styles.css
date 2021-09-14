@@ -1,0 +1,28 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 5%;    
+}
+
+#wrapper {
+    position: relative;
+    overflow-x: hidden;
+}
+
+.brd {
+    border-color: rgb(26, 23, 23);
+    border-style: groove;    
+    background-color: chartreuse;
+    width: 600px;
+    padding: 20px;    
+}
+
+.brd-img {
+    width: 600px;
+    background-image: url(../img/2.jpg);
+    color: darkgreen;
+    font-weight: 700;
+    font-size: x-small;
+    font-style: oblique;
+    opacity: 0.4;
+    text-align: right;
+}
